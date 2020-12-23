@@ -9,9 +9,18 @@ Data were acquired through an online game stallcatchers.com, which has more than
 The StallCatchers data is managed using MySQL. The users data can be exported as csv text files that each line of record contain timestamp, vessel ID, user ID, user answer (0 = flowing vessel, 1 = stalled vessel), and Calibration flag (0 = novel vessel, 1 = calibration vessel). 
 
 #### REFERENCE 
-[1] J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros, “Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks,” arXiv, 30-Mar-2017. //
+[1] J.-Y. Zhu, T. Park, P. Isola, and A. A. Efros, “Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks,” arXiv, 30-Mar-2017. 
+
 [2] “Amazon Mechanical Turk - Welcome.” [Online]. Available: https://www.mturk.com. [Accessed: 19-Sep-2017]. 
+
 [3] D. Prelec, H. Sebastian Seung, and J. McCoy, “A solution to the single-question crowd wisdom problem,” Nature, vol. 541, no. 7638, pp. 532–535, 2017. 
-[4] A. Beygelzimer, S. Dasgupta, and J. Langford, “Importance weighted active learning,” in Proceedings of the 26th Annual International Conference on Machine Learning - ICML ’09, 2009. [5] M. Joglekar, H. Garcia-Molina, and A. Parameswaran, “Comprehensive and reliable crowd assessment algorithms,” in 2015 IEEE 31st International Conference on Data Engineering, 2015. [6] J. Whitehill, T.-F. Wu, J. Bergsma, J. R. Movellan, and P. L. Ruvolo, “Whose Vote Should Count More: Optimal Integration of Labels from Labelers of Unknown Expertise,” in Advances in Neural Information Processing Systems, 2009, pp. 2035–2043. 
+
+[4] A. Beygelzimer, S. Dasgupta, and J. Langford, “Importance weighted active learning,” in Proceedings of the 26th Annual International Conference on Machine Learning - ICML ’09, 2009. 
+
+[5] M. Joglekar, H. Garcia-Molina, and A. Parameswaran, “Comprehensive and reliable crowd assessment algorithms,” in 2015 IEEE 31st International Conference on Data Engineering, 2015. 
+
+[6] J. Whitehill, T.-F. Wu, J. Bergsma, J. R. Movellan, and P. L. Ruvolo, “Whose Vote Should Count More: Optimal Integration of Labels from Labelers of Unknown Expertise,” in Advances in Neural Information Processing Systems, 2009, pp. 2035–2043. 
+
 [7] V. C. Raykar et al., “Supervised learning from multiple experts,” in Proceedings of the 26th Annual International Conference on Machine Learning - ICML ’09, 2009. 
+
 [8] S. K. Warfield, K. H. Zou, and W. M. Wells, “Simultaneous truth and performance level estimation (STAPLE): an algorithm for the validation of image segmentation,” IEEE Trans. Med. Imaging, vol. 23, no. 7, pp. 903–921, Jul. 2004. 
