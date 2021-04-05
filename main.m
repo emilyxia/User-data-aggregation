@@ -1,5 +1,5 @@
 % script to analysis StallCatchers.com data
-% Developed by Mohammad Haft-Javaherian (mh973@cornell.edu)
+% Developed by Mohammad Haft-Javaherian (mh973@cornell.edu), Fei Xia (fx43@cornell.edu) and Sylvia Zhang
 % Fall 2017
 
 %% Reading webiste data
