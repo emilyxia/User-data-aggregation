@@ -18,7 +18,7 @@
 % Andreas Husch
 % 2013-07-10, 2015-07-06, 2016-05-10
 % mail@andreashusch.de
-% Mohammad Haft-Javaherian (mh973@cornell.edu) 
+% Mohammad Haft-Javaherian (mh973@cornell.edu), Fei Xia (fx43@cornell.edu), Sylvia Zhang
 % Fall 2017
 %% Example for usage:
 % %Using test data (2D prostate segmentations) from original publication
